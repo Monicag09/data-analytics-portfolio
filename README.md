@@ -1,4 +1,3 @@
-# data-analytics-portfolio
 # 📊 Data Analytics Portfolio — Monica G
 
 Hi! I am currently learning Data Analytics at Besant Technologies.
